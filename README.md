@@ -9,7 +9,7 @@ This organization was established to apply many applications to biology🌱 with
 
 
 &nbsp;
-### My skills include
+### 💻 Languages and Tools
 
 <p align="left">
 	<img title="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="40">
