@@ -1,6 +1,6 @@
 # Overview
 
-### TOSPIC BIO (Tools of Operating System Application on Biology)
+### TOSPIC BIO (Tools of Operating System Application in Biology)
 &nbsp;
 
 ### Hi 👋
